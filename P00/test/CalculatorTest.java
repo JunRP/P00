@@ -61,7 +61,7 @@ public class CalculatorTest {
 			
 			assertEquals (actual,expected);
 		}
-		
+		@Test
 		public final void testDivision() {
 			int a = 20;
 			int b = 2;
